@@ -1,0 +1,3 @@
+First Name:Christian Miguel, Last Name:Dorado, Gender:M, Age:19, Course:BSIT, Age:19, School:UIC, 
+Christian Miguel, Dorado, M, 19, BSIT, 19, UIC
+Kimmy Dorado, M, 19, BSIT, 19, UIC
